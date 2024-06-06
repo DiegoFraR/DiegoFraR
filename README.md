@@ -23,10 +23,6 @@ This project was created for my Quality Assurance Course at Kennesaw State Unive
 This project is a simple personal webpage designed to learn HTML, CSS, and JavaScript.
 This project was created following this tutorial: [Cloud Champ Tutorial Video](https://www.youtube.com/watch?v=ldwlOzRvYOU&t=4564s)
 
-### Project 2: [Todo List]()
-
-This project is a continuation of learning Blazor Server and C#. It is a simple to-do list where you can add, delete, and modify tasks that need to be completed. 
-
 ## Connect with Me
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/diego-frausto-ramirez-9921ba27a/)
