@@ -18,10 +18,11 @@ This project was created for my Quality Assurance Course at Kennesaw State Unive
 
 ## Ongoing Projects
 
-### Project 1: [Personal Website](https://github.com/DiegoFraR/Personal-Webpage)
+### Project 1: [Personal Website](https://studentweb.kennesaw.edu/~dfraust4/)
 
 This project is a simple personal webpage designed to learn HTML, CSS, and JavaScript.
 This project was created following this tutorial: [Cloud Champ Tutorial Video](https://www.youtube.com/watch?v=ldwlOzRvYOU&t=4564s)
+*ANY CODE FROM THE CS4720 SECTION IS FORBIDDEN TO BE COPIED.*
 
 ## Connect with Me
 
