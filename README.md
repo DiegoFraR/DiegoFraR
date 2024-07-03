@@ -42,7 +42,7 @@ This project was created following this tutorial: [Cloud Champ Tutorial Video](h
 ### Personal
 - Continue learning about Blazor Server.
 - Updated Personal Website
-- To-do List Project
+- Intern @HighMatch
 
 
 
