@@ -6,9 +6,9 @@ Hello! I'm Diego, a passionate software engineering student with a knack for Jav
 
 ## Skills
 
-- **Languages:** Java, C#, HTML, CSS
-- **Frameworks:** Spring Boot, Blazor Server
-- **Tools & Technologies:** Git, GitHub, Visual Studio Code, IntelliJ IDEA, Eclipse
+- **Languages:** Java, C#, HTML, CSS, Python
+- **Frameworks:** Spring Boot, Blazor Server, .NET, Playwright
+- **Tools & Technologies:** Git, GitHub, Visual Studio Code, IntelliJ IDEA, Eclipse, GitKraken, Datagrip, GoLand, PyCharm
 
 ## Completed Projects
 
@@ -20,9 +20,9 @@ This project was created for my Quality Assurance Course at Kennesaw State Unive
 
 ### Project 1: [Personal Website](https://studentweb.kennesaw.edu/~dfraust4/)
 
-This project is a simple personal webpage designed to learn HTML, CSS, and JavaScript.
+This project is a personal webpage designed to learn HTML, CSS, and JavaScript developed during my time in CS4720: Internet Programming at Kennesaw State University.
 This project was created following this tutorial: [Cloud Champ Tutorial Video](https://www.youtube.com/watch?v=ldwlOzRvYOU&t=4564s)
-*ANY CODE FROM THE CS4720 SECTION IS FORBIDDEN TO BE COPIED.*
+#### *ANY CODE FROM THE CS4720 SECTION IS FORBIDDEN TO BE COPIED.*
 
 ## Connect with Me
 
