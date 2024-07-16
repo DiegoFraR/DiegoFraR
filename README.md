@@ -26,7 +26,7 @@ This project was created following this tutorial: [Cloud Champ Tutorial Video](h
 #### *ANY CODE FROM THE CS4720 SECTION IS FORBIDDEN TO BE COPIED.*
 
 ### Project 2: [BlogPost Website API](https://github.com/DiegoFraR/BlogPost.API) & [BlogPost Website UI](https://github.com/DiegoFraR/BlogPost.UI)
-This project was created in conjunction with the following [Udemy Course by Sameer Saini](https://www.udemy.com/share/105uyi3@cJOFpC69hlsyoA1o0NzE_lwhR0wV7K3UrZYuBBVipAkDmJg51_csY81KLFdPjLXpiQ==/).
+This project was created in conjunction with the following [Udemy Course by Sameer Saini](https://www.udemy.com/course/real-world-app-angular-aspnet-core-web-api-and-sql/?couponCode=THANKSLEARNER24).
 The project uses a .NET Core (C#) API which an Angular UI calls to display, edit, and add blog posts. 
 
 ## Connect with Me
