@@ -16,6 +16,7 @@ Hello! I'm Diego, a passionate software engineering student with a knack for Jav
 
 This project was created for my Quality Assurance Course at Kennesaw State University. The general idea is to make a web-based calculator using Blazor Server. We also wrote various tests for the project using NUnit and Playwright. 
 
+
 ## Ongoing Projects
 
 ### Project 1: [Personal Website](https://studentweb.kennesaw.edu/~dfraust4/)
@@ -23,6 +24,10 @@ This project was created for my Quality Assurance Course at Kennesaw State Unive
 This project is a personal webpage designed to learn HTML, CSS, and JavaScript developed during my time in CS4720: Internet Programming at Kennesaw State University.
 This project was created following this tutorial: [Cloud Champ Tutorial Video](https://www.youtube.com/watch?v=ldwlOzRvYOU&t=4564s)
 #### *ANY CODE FROM THE CS4720 SECTION IS FORBIDDEN TO BE COPIED.*
+
+### Project 2: [BlogPost Website API](https://github.com/DiegoFraR/BlogPost.API) & [BlogPost Website UI](https://github.com/DiegoFraR/BlogPost.UI)
+This project was created in conjunction with the following [Udemy Course by Sameer Saini](https://www.udemy.com/share/105uyi3@cJOFpC69hlsyoA1o0NzE_lwhR0wV7K3UrZYuBBVipAkDmJg51_csY81KLFdPjLXpiQ==/).
+The project uses a .NET Core (C#) API which an Angular UI calls to display, edit, and add blog posts. 
 
 ## Connect with Me
 
