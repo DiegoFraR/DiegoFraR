@@ -1,4 +1,4 @@
-# Welcome to [Diego Frausto Ramirez]'s GitHub Profile! 👋
+# Welcome to Diego Frausto Ramirez's GitHub Profile! 👋
 
 ## About Me
 
