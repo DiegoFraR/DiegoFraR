@@ -25,7 +25,7 @@ This project is a personal webpage designed to learn HTML, CSS, and JavaScript d
 This project was created following this tutorial: [Cloud Champ Tutorial Video](https://www.youtube.com/watch?v=ldwlOzRvYOU&t=4564s)
 #### *ANY CODE FROM THE CS4720 SECTION IS FORBIDDEN TO BE COPIED.*
 
-### Project 2: [BlogPost Website API](https://github.com/DiegoFraR/BlogPost.API) & [BlogPost Website UI](https://github.com/DiegoFraR/BlogPost.UI)
+### Project 2: [BlogPost Website API](https://github.com/DiegoFraR/BlogPost.API) & BlogPost Website UI(Coming Soon)
 This project was created in conjunction with the following [Udemy Course by Sameer Saini](https://www.udemy.com/course/real-world-app-angular-aspnet-core-web-api-and-sql/?couponCode=THANKSLEARNER24).
 The project uses a .NET Core (C#) API which an Angular UI calls to display, edit, and add blog posts. 
 
