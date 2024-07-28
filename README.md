@@ -49,4 +49,4 @@ The project uses a .NET Core (C#) API which an Angular UI calls to display, edit
 - Refined About Me Page on GitHub 
 
 ### Work
-- Associate Software Engineer (Intern) @HighMatch
+- Associate Software Engineer (Intern) @[HighMatch](https://www.highmatch.com/)
