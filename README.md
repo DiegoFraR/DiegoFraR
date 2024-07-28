@@ -27,6 +27,11 @@ This project was created following this tutorial: [Cloud Champ Tutorial Video](h
 This project was created in conjunction with the following [Udemy Course by Sameer Saini](https://www.udemy.com/course/real-world-app-angular-aspnet-core-web-api-and-sql/?couponCode=THANKSLEARNER24).
 The project uses a .NET Core (C#) API which an Angular UI calls to display, edit, and add blog posts. 
 
+### Project 2: [Personal Website](https://diegofrar.github.io/)
+This project was created with the following [YouTube Tutorial by Code Jungle](https://www.youtube.com/watch?v=cZj0j7rCcek&t=4235s).
+The project uses HTML, CSS, JS, and Bootstrap to create a personal webpage. 
+This will replace the finished one from my KSU CS 4720 Course. 
+
 ## Connect with Me
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/diego-frausto-ramirez-9921ba27a/)
