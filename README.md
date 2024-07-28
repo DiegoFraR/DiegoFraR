@@ -12,9 +12,9 @@ Hello! I'm Diego, a passionate software engineering student with a knack for Jav
 
 ## Completed Projects
 
-### Project 1: [Web-Based Calculator](https://github.com/DiegoFraR/SWE3643-Calculator-WebApp)
+### Project 1: [Web-Based Calculator](https://github.com/DiegoFraR/Calculator)
 
-This project was created for my Quality Assurance Course at Kennesaw State University. The general idea is to make a web-based calculator using Blazor Server. We also wrote various tests for the project using NUnit and Playwright. 
+This project was created for my Quality Assurance Course at KSU. This is a modified version that has cleaner code and a new UI. The premise is still the same as the one before. The general idea is to make a web-based calculator using Blazor Server. I also wrote various tests for the project using NUnit and Playwright. 
 
 
 ## Ongoing Projects
