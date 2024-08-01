@@ -6,8 +6,8 @@ Hello! I'm Diego, a passionate software engineering student with a knack for Jav
 
 ## Skills
 
-- **Languages:** Java, C#, HTML, CSS, Python, TypeScript, C, 
-- **Frameworks:** Spring Boot, Blazor Server, .NET, Playwright, Angular, Bootstrap, ASP.NET CORE
+- **Languages:** C#, HTML, CSS, Angular, Javascript, Typescript, Java, Python, SQL
+- **Frameworks:** Spring Boot, Blazor Server, .NET, Playwright, Angular, Bootstrap, ASP.NET Core
 - **Tools & Technologies:** Git, GitHub, Visual Studio Code, Visual Studio 2022, IntelliJ IDEA, Eclipse, GitKraken, Datagrip, GoLand, PyCharm
 
 ## Completed Projects
