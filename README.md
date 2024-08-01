@@ -16,21 +16,16 @@ Hello! I'm Diego, a passionate software engineering student with a knack for Jav
 
 This project was created for my Quality Assurance Course at KSU. This is a modified version that has cleaner code and a new UI. The premise is still the same as the one before. The general idea is to make a web-based calculator using Blazor Server. I also wrote various tests for the project using NUnit and Playwright. 
 
-### Project 2: [Personal Website](https://studentweb.kennesaw.edu/~dfraust4/)
-This project is a personal webpage designed to learn HTML, CSS, and JavaScript developed during my time in CS4720: Internet Programming at Kennesaw State University.
-This project was created following this tutorial: [Cloud Champ Tutorial Video](https://www.youtube.com/watch?v=ldwlOzRvYOU&t=4564s)
-#### *ANY CODE FROM THE CS4720 SECTION IS FORBIDDEN TO BE COPIED.*
+### Project 2: [Personal Website](https://diegofrar.github.io/)
+This project is a personal webpage I made for myself as another way to post my projects. It contains content about me, my studies, and projects I have made as I continue the path towards becoming a Software Engineer. 
+It uses HTML, CSS, JS, and Bootstrap. 
+__[Click Here for Source Code](https://github.com/DiegoFraR/Personal-Portfolio)__
 
 ## Ongoing Projects
 
 ### Project 1: [BlogPost Website API](https://github.com/DiegoFraR/BlogPost.API) & BlogPost Website UI(Coming Soon)
 This project was created in conjunction with the following [Udemy Course by Sameer Saini](https://www.udemy.com/course/real-world-app-angular-aspnet-core-web-api-and-sql/?couponCode=THANKSLEARNER24).
 The project uses a .NET Core (C#) API which an Angular UI calls to display, edit, and add blog posts. 
-
-### Project 2: [Personal Website](https://diegofrar.github.io/)
-This project was created with the following [YouTube Tutorial by Code Jungle](https://www.youtube.com/watch?v=cZj0j7rCcek&t=4235s).
-The project uses HTML, CSS, JS, and Bootstrap to create a personal webpage. 
-This will replace the finished one from my KSU CS 4720 Course. 
 
 ## Connect with Me
 
