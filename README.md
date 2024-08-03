@@ -21,11 +21,13 @@ This project is a personal webpage I made for myself as another way to post my p
 It uses HTML, CSS, JS, and Bootstrap. 
 __[Click Here for Source Code](https://github.com/DiegoFraR/Personal-Portfolio)__
 
-## Ongoing Projects
-
-### Project 1: [BlogPost Website API](https://github.com/DiegoFraR/BlogPost.API) & BlogPost Website UI(Coming Soon)
+### Project 3: [BlogPost Website API](https://github.com/DiegoFraR/BlogPost.API) & [BlogPost Website UI](https://github.com/DiegoFraR/BlogPost-UI)
 This project was created in conjunction with the following [Udemy Course by Sameer Saini](https://www.udemy.com/course/real-world-app-angular-aspnet-core-web-api-and-sql/?couponCode=THANKSLEARNER24).
 The project uses a .NET Core (C#) API which an Angular UI calls to display, edit, and add blog posts. 
+
+## Ongoing Projects
+
+*More coming at a later date.*
 
 ## Connect with Me
 
