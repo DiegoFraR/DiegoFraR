@@ -27,7 +27,9 @@ The project uses a .NET Core (C#) API which an Angular UI calls to display, edit
 
 ## Ongoing Projects
 
-*More coming at a later date.*
+* [Project Management Project (PIMP)](https://github.com/I-am-Signal/PMP)
+* [FiscalFrontier](https://github.com/DiegoFraR/FiscalFrontier)
+* [Cloud Software Development]()
 
 ## Connect with Me
 
@@ -47,8 +49,7 @@ The project uses a .NET Core (C#) API which an Angular UI calls to display, edit
 - [SWE 4633: Cloud Software Development](https://catalog.kennesaw.edu/content.php?filter%5B27%5D=SWE&filter%5B29%5D=4633&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=72&expand=&navoid=6895&search_database=Filter#acalog_template_course_filter)
 
 ### Personal
-- Updated Personal Website
-- Refined About Me Page on GitHub 
+*N/A at the moment.*
 
 ### Work
 - Associate Software Engineer (Intern) @[HighMatch](https://www.highmatch.com/)
