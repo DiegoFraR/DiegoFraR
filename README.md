@@ -27,7 +27,6 @@ The project uses a .NET Core (C#) API which an Angular UI calls to display, edit
 
 ## Ongoing Projects
 
-* [Project Management Project (PIMP)](https://github.com/I-am-Signal/PMP)
 * [FiscalFrontier](https://github.com/DiegoFraR/FiscalFrontier)
 * [Cloud Software Development]()
 
