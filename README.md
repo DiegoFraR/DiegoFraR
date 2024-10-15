@@ -28,7 +28,7 @@ The project uses a .NET Core (C#) API which an Angular UI calls to display, edit
 ## Ongoing Projects
 
 * [FiscalFrontier](https://github.com/DiegoFraR/FiscalFrontier)
-* [Cloud Software Development]()
+* [Cloud Software Development](https://github.com/Emmett922/EffortTrack)
 
 ## Connect with Me
 
