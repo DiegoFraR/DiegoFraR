@@ -25,10 +25,12 @@ __[Click Here for Source Code](https://github.com/DiegoFraR/Personal-Portfolio)_
 This project was created in conjunction with the following [Udemy Course by Sameer Saini](https://www.udemy.com/course/real-world-app-angular-aspnet-core-web-api-and-sql/?couponCode=THANKSLEARNER24).
 The project uses a .NET Core (C#) API which an Angular UI calls to display, edit, and add blog posts. 
 
+### Project 4: [Fiscal Frontier API](https://github.com/DiegoFraR/FiscalFrontier) & [Fiscal Frontier UI](https://github.com/DiegoFraR/FiscalFrontierUI)
+This project was created for my Application Domain course at KSU. It involves applying accounting principles to create software that companies would use to keep track of transactions and different levels of assets, equity, liabilities, etc. 
+
 ## Ongoing Projects
 
-* [FiscalFrontier](https://github.com/DiegoFraR/FiscalFrontier)
-* [Cloud Software Development](https://github.com/Emmett922/EffortTrack)
+- TBD
 
 ## Connect with Me
 
@@ -38,7 +40,7 @@ The project uses a .NET Core (C#) API which an Angular UI calls to display, edit
 
 ### Kennesaw State University
 - GPA: 4.0
-- Presidents List: Fall 2021, Spring 2022, Fall 2022, Spring 2023, Fall 2023, Spring 2024. 
+- Presidents List: Fall 2021, Spring 2022, Fall 2022, Spring 2023, Fall 2023, Spring 2024, Fall 2024. 
 
 ## Fall Plans
 
@@ -51,4 +53,4 @@ The project uses a .NET Core (C#) API which an Angular UI calls to display, edit
 *N/A at the moment.*
 
 ### Work
-- Associate Software Engineer (Intern) @[HighMatch](https://www.highmatch.com/)
+- Associate Software Engineer [@HighMatch](https://www.highmatch.com/)
